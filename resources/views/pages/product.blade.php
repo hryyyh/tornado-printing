@@ -112,7 +112,7 @@
     <div class="card h-100 shadow-sm">
 
         <!-- SLIDE GAMBAR PRODUK -->
-        <div id="product16"
+        <div id="product2"
              class="carousel slide"
              data-bs-ride="carousel"
              data-bs-interval="3000">
@@ -120,24 +120,56 @@
             <div class="carousel-inner rounded-top">
 
                 <div class="carousel-item active">
-                    <a href="/product/spoon">
-                    <img src="{{ asset('images/katalog/spoon/1.png') }}"
+                    <a href="/product/paper-bowl">
+                    <img src="{{ asset('images/katalog/paper bowl/4.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 1">
                     </a>
                 </div>
 
+                <div class="carousel-item">
+                    <a href="/product/paper-bowl">
+                    <img src="{{ asset('images/katalog/paper bowl/2.png') }}"
+                         class="d-block w-100 img-fluid"
+                         alt="Product Image 2">
+                    </a>
+                </div>
+
+                <div class="carousel-item">
+                    <a href="/product/paper-bowl">
+                    <img src="{{ asset('images/katalog/paper bowl/3.png') }}"
+                         class="d-block w-100 img-fluid"
+                         alt="Product Image 3">
+                    </a>
+                </div>
+
+                <div class="carousel-item">
+                    <a href="/product/paper-bowl">
+                    <img src="{{ asset('images/katalog/paper bowl/1.png') }}"
+                         class="d-block w-100 img-fluid"
+                         alt="Product Image 4">
+                    </a>
+                </div>
+            </div>
+
+            <!-- DOT INDICATOR -->
+            <div class="carousel-indicators mb-0">
+                <button type="button" data-bs-target="#product2" data-bs-slide-to="0" class="active"></button>
+                <button type="button" data-bs-target="#product2" data-bs-slide-to="1"></button>
+                <button type="button" data-bs-target="#product2" data-bs-slide-to="2"></button>
+                <button type="button" data-bs-target="#product2" data-bs-slide-to="3"></button>
+            </div>
+
         </div>
 
         <!-- ISI CARD -->
         <div class="card-body text-center">
-            <h5 class="card-title">Custom Spoon</h5>
+            <h5 class="card-title">Paper Bowl</h5>
             <p class="card-text">
-                High-quality Custom Spoon solutions for your brand.
+                High-quality custom Bowl solutions for your brand.
             </p>
         </div>
 
-    </div>
     </div>
 </div>
          
@@ -147,6 +179,72 @@
 
         <!-- SLIDE GAMBAR PRODUK -->
         <div id="product3"
+             class="carousel slide"
+             data-bs-ride="carousel"
+             data-bs-interval="3000">
+
+            <div class="carousel-inner rounded-top">
+
+                <div class="carousel-item active">
+                    <a href="/product/lunch-box">
+                    <img src="{{ asset('images/katalog/lunch box/1.png') }}"
+                         class="d-block w-100 img-fluid"
+                         alt="Product Image 1">
+                    </a>
+                </div>
+
+                <div class="carousel-item">
+                    <a href="/product/lunch-box">
+                    <img src="{{ asset('images/katalog/lunch box/2.png') }}"
+                         class="d-block w-100 img-fluid"
+                         alt="Product Image 2">
+                    </a>
+                </div>
+
+                <div class="carousel-item">
+                    <a href="/product/lunch-box">
+                    <img src="{{ asset('images/katalog/lunch box/3.png') }}"
+                         class="d-block w-100 img-fluid"
+                         alt="Product Image 3">
+                    </a>
+                </div>
+
+                <div class="carousel-item">
+                    <a href="/product/lunch-box">
+                    <img src="{{ asset('images/katalog/lunch box/4.png') }}"
+                         class="d-block w-100 img-fluid"
+                         alt="Product Image 4">
+                    </a>
+                </div>
+            </div>
+
+            <!-- DOT INDICATOR -->
+            <div class="carousel-indicators mb-0">
+                <button type="button" data-bs-target="#product3" data-bs-slide-to="0" class="active"></button>
+                <button type="button" data-bs-target="#product3" data-bs-slide-to="1"></button>
+                <button type="button" data-bs-target="#product3" data-bs-slide-to="2"></button>
+                <button type="button" data-bs-target="#product3" data-bs-slide-to="3"></button>
+            </div>
+
+        </div>
+
+        <!-- ISI CARD -->
+        <div class="card-body text-center">
+            <h5 class="card-title">Lunch Box</h5>
+            <p class="card-text">
+                High-quality Custom Lunch Box solutions for your brand.
+            </p>
+        </div>
+
+    </div>
+</div>
+
+<!-- PRODUK 4-->
+ <div class="col-6 col-sm-6 col-md-4 col-lg-3 mb-4">
+    <div class="card h-100 shadow-sm">
+
+        <!-- SLIDE GAMBAR PRODUK -->
+        <div id="product4"
              class="carousel slide"
              data-bs-ride="carousel"
              data-bs-interval="3000">
@@ -204,12 +302,12 @@
 
             <!-- DOT INDICATOR -->
             <div class="carousel-indicators mb-0">
-                <button type="button" data-bs-target="#product3" data-bs-slide-to="0" class="active"></button>
-                <button type="button" data-bs-target="#product3" data-bs-slide-to="1"></button>
-                <button type="button" data-bs-target="#product3" data-bs-slide-to="2"></button>
-                <button type="button" data-bs-target="#product3" data-bs-slide-to="3"></button>
-                <button type="button" data-bs-target="#product3" data-bs-slide-to="4"></button>
-                <button type="button" data-bs-target="#product3" data-bs-slide-to="5"></button>
+                <button type="button" data-bs-target="#product4" data-bs-slide-to="0" class="active"></button>
+                <button type="button" data-bs-target="#product4" data-bs-slide-to="1"></button>
+                <button type="button" data-bs-target="#product4" data-bs-slide-to="2"></button>
+                <button type="button" data-bs-target="#product4" data-bs-slide-to="3"></button>
+                <button type="button" data-bs-target="#product4" data-bs-slide-to="4"></button>
+                <button type="button" data-bs-target="#product4" data-bs-slide-to="5"></button>
             </div>
 
         </div>
@@ -219,64 +317,6 @@
             <h5 class="card-title">Sticker</h5>
             <p class="card-text">
                 High-quality Custom Sticker solutions for your brand.
-            </p>
-        </div>
-
-    </div>
-</div>
-
-<!-- PRODUK 4-->
- <div class="col-6 col-sm-6 col-md-4 col-lg-3 mb-4">
-    <div class="card h-100 shadow-sm">
-
-        <!-- SLIDE GAMBAR PRODUK -->
-        <div id="product4"
-             class="carousel slide"
-             data-bs-ride="carousel"
-             data-bs-interval="3000">
-
-            <div class="carousel-inner rounded-top">
-
-                <div class="carousel-item active">
-                    <a href="/product/banner">
-                    <img src="{{ asset('images/katalog/banner/1.png') }}"
-                         class="d-block w-100 img-fluid"
-                         alt="Product Image 1">
-                    </a>
-                </div>
-
-                <div class="carousel-item">
-                    <a href="/product/banner">
-                    <img src="{{ asset('images/katalog/banner/2.png') }}"
-                         class="d-block w-100 img-fluid"
-                         alt="Product Image 2">
-                    </a>
-                </div>
-
-                <div class="carousel-item">
-                    <a href="/product/banner">
-                    <img src="{{ asset('images/katalog/banner/3.png') }}"
-                         class="d-block w-100 img-fluid"
-                         alt="Product Image 3">
-                    </a>
-                </div>
-
-            </div>
-
-            <!-- DOT INDICATOR -->
-            <div class="carousel-indicators mb-0">
-                <button type="button" data-bs-target="#product4" data-bs-slide-to="0" class="active"></button>
-                <button type="button" data-bs-target="#product4" data-bs-slide-to="1"></button>
-                <button type="button" data-bs-target="#product4" data-bs-slide-to="2"></button>
-            </div>
-
-        </div>
-
-        <!-- ISI CARD -->
-        <div class="card-body text-center">
-            <h5 class="card-title">Banner</h5>
-            <p class="card-text">
-                High-quality Custom Banner solutions for your brand.
             </p>
         </div>
 
@@ -419,58 +459,27 @@
             <div class="carousel-inner rounded-top">
 
                 <div class="carousel-item active">
-                    <a href="/product/paper-bowl">
-                    <img src="{{ asset('images/katalog/paper bowl/4.png') }}"
+                    <a href="/product/spoon">
+                    <img src="{{ asset('images/katalog/spoon/1.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 1">
                     </a>
                 </div>
 
-                <div class="carousel-item">
-                    <a href="/product/paper-bowl">
-                    <img src="{{ asset('images/katalog/paper bowl/2.png') }}"
-                         class="d-block w-100 img-fluid"
-                         alt="Product Image 2">
-                    </a>
-                </div>
-
-                <div class="carousel-item">
-                    <a href="/product/paper-bowl">
-                    <img src="{{ asset('images/katalog/paper bowl/3.png') }}"
-                         class="d-block w-100 img-fluid"
-                         alt="Product Image 3">
-                    </a>
-                </div>
-
-                <div class="carousel-item">
-                    <a href="/product/paper-bowl">
-                    <img src="{{ asset('images/katalog/paper bowl/1.png') }}"
-                         class="d-block w-100 img-fluid"
-                         alt="Product Image 4">
-                    </a>
-                </div>
-            </div>
-
-            <!-- DOT INDICATOR -->
-            <div class="carousel-indicators mb-0">
-                <button type="button" data-bs-target="#product8" data-bs-slide-to="0" class="active"></button>
-                <button type="button" data-bs-target="#product8" data-bs-slide-to="1"></button>
-                <button type="button" data-bs-target="#product8" data-bs-slide-to="2"></button>
-                <button type="button" data-bs-target="#product8" data-bs-slide-to="3"></button>
-            </div>
-
         </div>
 
         <!-- ISI CARD -->
         <div class="card-body text-center">
-            <h5 class="card-title">Paper Bowl</h5>
+            <h5 class="card-title">Custom Spoon</h5>
             <p class="card-text">
-                High-quality custom Bowl solutions for your brand.
+                High-quality Custom Spoon solutions for your brand.
             </p>
         </div>
 
     </div>
 </div>
+        </div>
+    </div>
 
 <!-- PRODUK 9-->
  <div class="col-6 col-sm-6 col-md-4 col-lg-3 mb-4">
@@ -485,36 +494,29 @@
             <div class="carousel-inner rounded-top">
 
                 <div class="carousel-item active">
-                    <a href="/product/lunch-box">
-                    <img src="{{ asset('images/katalog/lunch box/1.png') }}"
+                    <a href="/product/banner">
+                    <img src="{{ asset('images/katalog/banner/1.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 1">
                     </a>
                 </div>
 
                 <div class="carousel-item">
-                    <a href="/product/lunch-box">
-                    <img src="{{ asset('images/katalog/lunch box/2.png') }}"
+                    <a href="/product/banner">
+                    <img src="{{ asset('images/katalog/banner/2.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 2">
                     </a>
                 </div>
 
                 <div class="carousel-item">
-                    <a href="/product/lunch-box">
-                    <img src="{{ asset('images/katalog/lunch box/3.png') }}"
+                    <a href="/product/banner">
+                    <img src="{{ asset('images/katalog/banner/3.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 3">
                     </a>
                 </div>
 
-                <div class="carousel-item">
-                    <a href="/product/lunch-box">
-                    <img src="{{ asset('images/katalog/lunch box/4.png') }}"
-                         class="d-block w-100 img-fluid"
-                         alt="Product Image 4">
-                    </a>
-                </div>
             </div>
 
             <!-- DOT INDICATOR -->
@@ -522,16 +524,15 @@
                 <button type="button" data-bs-target="#product9" data-bs-slide-to="0" class="active"></button>
                 <button type="button" data-bs-target="#product9" data-bs-slide-to="1"></button>
                 <button type="button" data-bs-target="#product9" data-bs-slide-to="2"></button>
-                <button type="button" data-bs-target="#product9" data-bs-slide-to="3"></button>
             </div>
 
         </div>
 
         <!-- ISI CARD -->
         <div class="card-body text-center">
-            <h5 class="card-title">Lunch Box</h5>
+            <h5 class="card-title">Banner</h5>
             <p class="card-text">
-                High-quality Custom Lunch Box solutions for your brand.
+                High-quality Custom Banner solutions for your brand.
             </p>
         </div>
 
@@ -808,7 +809,7 @@
     <div class="card h-100 shadow-sm">
 
         <!-- SLIDE GAMBAR PRODUK -->
-        <div id="product16"
+        <div id="product8"
              class="carousel slide"
              data-bs-ride="carousel"
              data-bs-interval="3000">
@@ -859,11 +860,11 @@
 
             <!-- DOT INDICATOR -->
             <div class="carousel-indicators mb-0">
-                <button type="button" data-bs-target="#product16" data-bs-slide-to="0" class="active"></button>
-                <button type="button" data-bs-target="#product16" data-bs-slide-to="1"></button>
-                <button type="button" data-bs-target="#product16" data-bs-slide-to="2"></button>
-                <button type="button" data-bs-target="#product16" data-bs-slide-to="3"></button>
-                <button type="button" data-bs-target="#product16" data-bs-slide-to="4"></button>
+                <button type="button" data-bs-target="#product8" data-bs-slide-to="0" class="active"></button>
+                <button type="button" data-bs-target="#product8" data-bs-slide-to="1"></button>
+                <button type="button" data-bs-target="#product8" data-bs-slide-to="2"></button>
+                <button type="button" data-bs-target="#product8" data-bs-slide-to="3"></button>
+                <button type="button" data-bs-target="#product8" data-bs-slide-to="4"></button>
             </div>
 
         </div>
