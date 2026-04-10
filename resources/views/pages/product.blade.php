@@ -13,30 +13,28 @@
 
         <div class="row">
 
-         <div class="row">
-
 <!-- PRODUK 1 -->
 <div class="col-6 col-md-3 mb-4">
 <div class="card h-100 shadow-sm">
-<div id="product1" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
-<div class="carousel-inner rounded-top">
+    <div id="product1" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
+        <div class="carousel-inner rounded-top">
 
-<div class="carousel-item active"><a href="/product/cup-pp-datar"><img src="{{ asset('images/katalog/cup datar/1.png') }}" class="d-block w-100 img-fluid"></a></div>
-<div class="carousel-item"><a href="/product/cup-pp-datar"><img src="{{ asset('images/katalog/cup datar/2.png') }}" class="d-block w-100 img-fluid"></a></div>
-<div class="carousel-item"><a href="/product/cup-pp-datar"><img src="{{ asset('images/katalog/cup datar/3.png') }}" class="d-block w-100 img-fluid"></a></div>
-<div class="carousel-item"><a href="/product/cup-pp-datar"><img src="{{ asset('images/katalog/cup datar/4.png') }}" class="d-block w-100 img-fluid"></a></div>
-<div class="carousel-item"><a href="/product/cup-pp-datar"><img src="{{ asset('images/katalog/cup datar/5.png') }}" class="d-block w-100 img-fluid"></a></div>
-<div class="carousel-item"><a href="/product/cup-pp-datar"><img src="{{ asset('images/katalog/cup datar/tutup1.png') }}" class="d-block w-100 img-fluid"></a></div>
-<div class="carousel-item"><a href="/product/cup-pp-datar"><img src="{{ asset('images/katalog/cup datar/tutup2.png') }}" class="d-block w-100 img-fluid"></a></div>
+        <div class="carousel-item active"><a href="/product/cup-pp-datar"><img src="{{ asset('images/katalog/cup datar/1.png') }}" class="d-block w-100 img-fluid"></a></div>
+        <div class="carousel-item"><a href="/product/cup-pp-datar"><img src="{{ asset('images/katalog/cup datar/2.png') }}" class="d-block w-100 img-fluid"></a></div>
+        <div class="carousel-item"><a href="/product/cup-pp-datar"><img src="{{ asset('images/katalog/cup datar/3.png') }}" class="d-block w-100 img-fluid"></a></div>
+        <div class="carousel-item"><a href="/product/cup-pp-datar"><img src="{{ asset('images/katalog/cup datar/4.png') }}" class="d-block w-100 img-fluid"></a></div>
+        <div class="carousel-item"><a href="/product/cup-pp-datar"><img src="{{ asset('images/katalog/cup datar/5.png') }}" class="d-block w-100 img-fluid"></a></div>
+        <div class="carousel-item"><a href="/product/cup-pp-datar"><img src="{{ asset('images/katalog/cup datar/tutup1.png') }}" class="d-block w-100 img-fluid"></a></div>
+        <div class="carousel-item"><a href="/product/cup-pp-datar"><img src="{{ asset('images/katalog/cup datar/tutup2.png') }}" class="d-block w-100 img-fluid"></a></div>
 
-</div>
-</div>
+        </div>
+    </div>
 
-<div class="card-body text-center">
-<h5 class="card-title">Cup PP Datar</h5>
-<p class="card-text">High-quality Custom Cup solutions for your brand.</p>
-</div>
-</div>
+    <div class="card-body text-center">
+    <h5 class="card-title">Cup PP Datar</h5>
+    <p class="card-text">High-quality Custom Cup solutions for your brand.</p>
+    </div>
+    </div>
 </div>
 
 <!-- PRODUK 2 -->
