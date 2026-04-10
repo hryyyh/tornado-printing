@@ -2,7 +2,7 @@
     <div class="container">
 
         <a class="navbar-brand d-flex align-items-center fw-bold" href="/">
-            <img src="{{ asset('assets/images/tamu/logo.png') }}" width="40" class="me-2">
+            <img src="{{ asset('images/tamu/logo.png') }}" width="40" class="me-2">
             Tornado Printing
         </a>
 

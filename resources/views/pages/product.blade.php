@@ -27,7 +27,7 @@
 
                 <div class="carousel-item active">
                 <a href="/product/cup-pp-datar">
-                <img src="{{ asset('assets/images/katalog/cup datar/1.png') }}"
+                <img src="{{ asset('images/katalog/cup datar/1.png') }}"
                     class="d-block w-100 img-fluid"
                     alt="Product Image 1">
                 </a>
@@ -35,7 +35,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/cup-pp-datar">
-                    <img src="{{ asset('assets/images/katalog/cup datar/2.png') }}"
+                    <img src="{{ asset('images/katalog/cup datar/2.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 2">
                 </a>
@@ -43,7 +43,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/cup-pp-datar">
-                    <img src="{{ asset('assets/images/katalog/cup datar/3.png') }}"
+                    <img src="{{ asset('images/katalog/cup datar/3.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 3">
                 </a>
@@ -51,7 +51,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/cup-pp-datar">
-                    <img src="{{ asset('assets/images/katalog/cup datar/4.png') }}"
+                    <img src="{{ asset('images/katalog/cup datar/4.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 4">
                     </a>
@@ -59,7 +59,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/cup-pp-datar">
-                    <img src="{{ asset('assets/images/katalog/cup datar/5.png') }}"
+                    <img src="{{ asset('images/katalog/cup datar/5.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 5">
                     </a>
@@ -67,7 +67,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/cup-pp-datar">
-                    <img src="{{ asset('assets/images/katalog/cup datar/tutup1.png') }}"
+                    <img src="{{ asset('images/katalog/cup datar/tutup1.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 5">
                     </a>
@@ -75,7 +75,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/cup-pp-datar">
-                    <img src="{{ asset('assets/images/katalog/cup datar/tutup2.png') }}"
+                    <img src="{{ asset('images/katalog/cup datar/tutup2.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 5">
                     </a>
@@ -121,7 +121,7 @@
 
                 <div class="carousel-item active">
                     <a href="/product/cup-pp-oval">
-                    <img src="{{ asset('assets/images/katalog/cup oval/1.png') }}"
+                    <img src="{{ asset('images/katalog/cup oval/1.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 1">
                     </a>
@@ -129,7 +129,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/cup-pp-oval">
-                    <img src="{{ asset('assets/images/katalog/cup oval/2.png') }}"
+                    <img src="{{ asset('images/katalog/cup oval/2.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 2">
                     </a>                                                                
@@ -137,7 +137,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/cup-pp-oval">     
-                    <img src="{{ asset('assets/images/katalog/cup oval/3.png') }}"
+                    <img src="{{ asset('images/katalog/cup oval/3.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 3">
                     </a>
@@ -145,7 +145,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/cup-pp-oval">
-                    <img src="{{ asset('assets/images/katalog/cup oval/4.png') }}"
+                    <img src="{{ asset('images/katalog/cup oval/4.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 4">
                     </a>
@@ -153,7 +153,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/cup-pp-oval">
-                    <img src="{{ asset('assets/images/katalog/cup oval/5.png') }}"
+                    <img src="{{ asset('images/katalog/cup oval/5.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 5">
                     </a>
@@ -197,7 +197,7 @@
 
                 <div class="carousel-item active">
                     <a href="/product/custom-pet">
-                    <img src="{{ asset('assets/images/katalog/cup pet/1.png') }}"
+                    <img src="{{ asset('images/katalog/cup pet/1.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 1">
                     </a>
@@ -205,7 +205,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/custom-pet">
-                    <img src="{{ asset('assets/images/katalog/cup pet/2.png') }}"
+                    <img src="{{ asset('images/katalog/cup pet/2.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 2">
                     </a>
@@ -213,7 +213,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/custom-pet">
-                    <img src="{{ asset('assets/images/katalog/cup pet/3.png') }}"
+                    <img src="{{ asset('images/katalog/cup pet/3.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 3">
                     </a>
@@ -254,7 +254,7 @@
 
                 <div class="carousel-item active">
                     <a href="/product/cup-injection">
-                    <img src="{{ asset('assets/images/katalog/cup injection/1.png') }}"
+                    <img src="{{ asset('images/katalog/cup injection/1.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 1">
                     </a>
@@ -262,7 +262,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/cup-injection">
-                    <img src="{{ asset('assets/images/katalog/cup injection/2.png') }}"
+                    <img src="{{ asset('images/katalog/cup injection/2.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 2">
                     </a>
@@ -270,7 +270,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/cup-injection">
-                    <img src="{{ asset('assets/images/katalog/cup injection/3.png') }}"
+                    <img src="{{ asset('images/katalog/cup injection/3.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 3">
                     </a>
@@ -278,7 +278,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/cup-injection">
-                    <img src="{{ asset('assets/images/katalog/cup injection/4.png') }}"
+                    <img src="{{ asset('images/katalog/cup injection/4.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 4">
                     </a>
@@ -286,7 +286,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/cup-injection">
-                    <img src="{{ asset('assets/images/katalog/cup injection/tutup.png') }}"
+                    <img src="{{ asset('images/katalog/cup injection/tutup.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 4">
                     </a>
@@ -329,7 +329,7 @@
 
                 <div class="carousel-item active">
                     <a href="/product/paper-cup">
-                    <img src="{{ asset('assets/images/katalog/paper cup/1.png') }}"
+                    <img src="{{ asset('images/katalog/paper cup/1.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 1">
                     </a>
@@ -337,7 +337,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/paper-cup">
-                    <img src="{{ asset('assets/images/katalog/paper cup/2.png') }}"
+                    <img src="{{ asset('images/katalog/paper cup/2.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 2">
                     </a>
@@ -377,7 +377,7 @@
 
                 <div class="carousel-item active">
                     <a href="/product/sleeve">
-                    <img src="{{ asset('assets/images/katalog/sleeve/1.png') }}"
+                    <img src="{{ asset('images/katalog/sleeve/1.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 1">
                     </a>
@@ -385,7 +385,7 @@
 
                 <div class="carousel-item active">
                     <a href="/product/sleeve">
-                    <img src="{{ asset('assets/images/katalog/sleeve/2.png') }}"
+                    <img src="{{ asset('images/katalog/sleeve/2.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 2">
                     </a>
@@ -419,7 +419,7 @@
 
                 <div class="carousel-item active">
                     <a href="/product/cup-jumbo">
-                    <img src="{{ asset('assets/images/katalog/cup jumbo/1.png') }}"
+                    <img src="{{ asset('images/katalog/cup jumbo/1.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 1">
                     </a>
@@ -452,7 +452,7 @@
 
                 <div class="carousel-item active">
                     <a href="/product/paper-bowl">
-                    <img src="{{ asset('assets/images/katalog/paper bowl/4.png') }}"
+                    <img src="{{ asset('images/katalog/paper bowl/4.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 1">
                     </a>
@@ -460,7 +460,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/paper-bowl">
-                    <img src="{{ asset('assets/images/katalog/paper bowl/2.png') }}"
+                    <img src="{{ asset('images/katalog/paper bowl/2.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 2">
                     </a>
@@ -468,7 +468,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/paper-bowl">
-                    <img src="{{ asset('assets/images/katalog/paper bowl/3.png') }}"
+                    <img src="{{ asset('images/katalog/paper bowl/3.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 3">
                     </a>
@@ -476,7 +476,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/paper-bowl">
-                    <img src="{{ asset('assets/images/katalog/paper bowl/1.png') }}"
+                    <img src="{{ asset('images/katalog/paper bowl/1.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 4">
                     </a>
@@ -518,7 +518,7 @@
 
                 <div class="carousel-item active">
                     <a href="/product/lunch-box">
-                    <img src="{{ asset('assets/images/katalog/lunch box/1.png') }}"
+                    <img src="{{ asset('images/katalog/lunch box/1.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 1">
                     </a>
@@ -526,7 +526,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/lunch-box">
-                    <img src="{{ asset('assets/images/katalog/lunch box/2.png') }}"
+                    <img src="{{ asset('images/katalog/lunch box/2.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 2">
                     </a>
@@ -534,7 +534,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/lunch-box">
-                    <img src="{{ asset('assets/images/katalog/lunch box/3.png') }}"
+                    <img src="{{ asset('images/katalog/lunch box/3.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 3">
                     </a>
@@ -542,7 +542,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/lunch-box">
-                    <img src="{{ asset('assets/images/katalog/lunch box/4.png') }}"
+                    <img src="{{ asset('images/katalog/lunch box/4.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 4">
                     </a>
@@ -584,7 +584,7 @@
 
                 <div class="carousel-item active">
                     <a href="/product/tumblr">
-                    <img src="{{ asset('assets/images/katalog/tumblr/1.png') }}"
+                    <img src="{{ asset('images/katalog/tumblr/1.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 1">
                     </a>
@@ -617,7 +617,7 @@
 
                 <div class="carousel-item active">
                     <a href="/product/banner">
-                    <img src="{{ asset('assets/images/katalog/banner/1.png') }}"
+                    <img src="{{ asset('images/katalog/banner/1.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 1">
                     </a>
@@ -625,7 +625,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/banner">
-                    <img src="{{ asset('assets/images/katalog/banner/2.png') }}"
+                    <img src="{{ asset('images/katalog/banner/2.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 2">
                     </a>
@@ -633,7 +633,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/banner">
-                    <img src="{{ asset('assets/images/katalog/banner/3.png') }}"
+                    <img src="{{ asset('images/katalog/banner/3.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 3">
                     </a>
@@ -675,7 +675,7 @@
 
                 <div class="carousel-item active">
                     <a href="/product/sticker">
-                    <img src="{{ asset('assets/images/katalog/sticker/1.png') }}"
+                    <img src="{{ asset('images/katalog/sticker/1.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 1">
                     </a>
@@ -683,7 +683,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/sticker">
-                    <img src="{{ asset('assets/images/katalog/sticker/2.png') }}"
+                    <img src="{{ asset('images/katalog/sticker/2.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 2">
                     </a>
@@ -691,7 +691,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/sticker">
-                    <img src="{{ asset('assets/images/katalog/sticker/3.png') }}"
+                    <img src="{{ asset('images/katalog/sticker/3.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 3">
                     </a>
@@ -699,7 +699,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/sticker">
-                    <img src="{{ asset('assets/images/katalog/sticker/4.png') }}"
+                    <img src="{{ asset('images/katalog/sticker/4.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 4">
                     </a>
@@ -707,7 +707,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/sticker">
-                    <img src="{{ asset('assets/images/katalog/sticker/5.png') }}"
+                    <img src="{{ asset('images/katalog/sticker/5.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 5">
                     </a>
@@ -715,7 +715,7 @@
 
                 <div class="carousel-item">
                     <a href="/product/sticker">
-                    <img src="{{ asset('assets/images/katalog/sticker/6.png') }}"
+                    <img src="{{ asset('images/katalog/sticker/6.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 6">
                     </a>
@@ -759,7 +759,7 @@
 
                 <div class="carousel-item active">
                     <a href="/product/keychain">
-                    <img src="{{ asset('assets/images/katalog/ganci/1.png') }}"
+                    <img src="{{ asset('images/katalog/ganci/1.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 1">
                     </a>
@@ -792,7 +792,7 @@
 
                 <div class="carousel-item active">
                     <a href="/product/snack-paper">
-                    <img src="{{ asset('assets/images/katalog/snack paper/1.png') }}"
+                    <img src="{{ asset('images/katalog/snack paper/1.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 1">
                     </a>
@@ -825,7 +825,7 @@
 
                 <div class="carousel-item active">
                     <a href="/product/mangkok-plastik">
-                    <img src="{{ asset('assets/images/katalog/mangkok plastik/1.png') }}"
+                    <img src="{{ asset('images/katalog/mangkok plastik/1.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 1">
                     </a>
@@ -859,7 +859,7 @@
 
                 <div class="carousel-item active">
                     <a href="/product/spoon">
-                    <img src="{{ asset('assets/images/katalog/spoon/1.png') }}"
+                    <img src="{{ asset('images/katalog/spoon/1.png') }}"
                          class="d-block w-100 img-fluid"
                          alt="Product Image 1">
                     </a>
