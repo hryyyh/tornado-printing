@@ -52,7 +52,7 @@
 
             <!-- IMAGE -->
             <div class="col-md-6 mb-4 mb-md-0 text-center">
-                <img src="{{ asset('assets/images/tamu/body.jpg') }}" 
+                <img src="{{ asset('images/tamu/body.jpg') }}" 
                      class="img-fluid rounded shadow">
             </div>
 
