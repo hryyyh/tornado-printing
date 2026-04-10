@@ -12,22 +12,22 @@
         <div class="carousel-inner rounded-4 overflow-hidden">
 
             <div class="carousel-item active">
-                <img src="{{ asset('assets/images/tamu/banner1.png') }}"
+                <img src="{{ asset('images/tamu/banner1.png') }}"
                      class="d-block w-100">
             </div>
 
             <div class="carousel-item">
-                <img src="{{ asset('assets/images/tamu/banner2.png') }}"
+                <img src="{{ asset('images/tamu/banner2.png') }}"
                      class="d-block w-100">
             </div>
 
             <div class="carousel-item">
-                <img src="{{ asset('assets/images/tamu/banner3.png') }}"
+                <img src="{{ asset('images/tamu/banner3.png') }}"
                      class="d-block w-100">
             </div>
 
             <div class="carousel-item">
-                <img src="{{ asset('assets/images/tamu/banner4.png') }}"
+                <img src="{{ asset('images/tamu/banner4.png') }}"
                      class="d-block w-100">
             </div>
 
