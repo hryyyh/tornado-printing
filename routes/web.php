@@ -25,86 +25,86 @@ Route::get('/product/{slug}', function ($slug) {
         'cup-pp-datar' => [
             'name' => 'Cup PP Datar',
             'images' => [
-                'assets/images/katalog/cup datar/1.png',
-                'assets/images/katalog/cup datar/2.png',
-                'assets/images/katalog/cup datar/3.png',
-                'assets/images/katalog/cup datar/4.png',
-                'assets/images/katalog/cup datar/5.png',
-                'assets/images/katalog/cup datar/tutup1.png',
-                'assets/images/katalog/cup datar/tutup2.png',
+                'images/katalog/cup datar/1.png',
+                'images/katalog/cup datar/2.png',
+                'images/katalog/cup datar/3.png',
+                'images/katalog/cup datar/4.png',
+                'images/katalog/cup datar/5.png',
+                'images/katalog/cup datar/tutup1.png',
+                'images/katalog/cup datar/tutup2.png',
             ]
         ],
 
         'cup-pp-oval' => [
             'name' => 'Cup PP Oval',
             'images' => [
-                'assets/images/katalog/cup oval/1.png',
-                'assets/images/katalog/cup oval/2.png',
-                'assets/images/katalog/cup oval/3.png',
-                'assets/images/katalog/cup oval/4.png',
-                'assets/images/katalog/cup oval/5.png',
+                'images/katalog/cup oval/1.png',
+                'images/katalog/cup oval/2.png',
+                'images/katalog/cup oval/3.png',
+                'images/katalog/cup oval/4.png',
+                'images/katalog/cup oval/5.png',
             ]
         ],
 
         'custom-pet' => [
             'name' => 'Cup PET',
             'images' => [
-                'assets/images/katalog/cup pet/1.png',
-                'assets/images/katalog/cup pet/2.png',
-                'assets/images/katalog/cup pet/3.png',
+                'images/katalog/cup pet/1.png',
+                'images/katalog/cup pet/2.png',
+                'images/katalog/cup pet/3.png',
             ]
         ],
 
         'cup-injection' => [
             'name' => 'Cup Injection',
             'images' => [
-                'assets/images/katalog/cup injection/1.png',
-                'assets/images/katalog/cup injection/2.png',
-                'assets/images/katalog/cup injection/3.png',
-                'assets/images/katalog/cup injection/4.png',
-                'assets/images/katalog/cup injection/tutup.png',
+                'images/katalog/cup injection/1.png',
+                'images/katalog/cup injection/2.png',
+                'images/katalog/cup injection/3.png',
+                'images/katalog/cup injection/4.png',
+                'images/katalog/cup injection/tutup.png',
             ]
         ],
 
         'paper-cup' => [
             'name' => 'Paper Cup',
             'images' => [
-                'assets/images/katalog/paper cup/1.png',
-                'assets/images/katalog/paper cup/2.png',
+                'images/katalog/paper cup/1.png',
+                'images/katalog/paper cup/2.png',
             ]
         ],
 
         'mangkok-plastik' => [
             'name' => 'Mangkok Plastik',
             'images' => [
-                'assets/images/katalog/mangkok plastik/1.png',
+                'images/katalog/mangkok plastik/1.png',
             ]
         ],
 
         'cup-jumbo' => [
             'name' => 'Cup Jumbo',
             'images' => [
-                'assets/images/katalog/cup jumbo/1.png',
+                'images/katalog/cup jumbo/1.png',
             ]
         ],
 
         'paper-bowl' => [
             'name' => 'Paper Bowl',
             'images' => [
-                'assets/images/katalog/paper bowl/1.png',
-                'assets/images/katalog/paper bowl/2.png',
-                'assets/images/katalog/paper bowl/3.png',
-                'assets/images/katalog/paper bowl/4.png',
+                'images/katalog/paper bowl/1.png',
+                'images/katalog/paper bowl/2.png',
+                'images/katalog/paper bowl/3.png',
+                'images/katalog/paper bowl/4.png',
             ]
         ],
 
         'lunch-box' => [
             'name' => 'Lunch Box',
             'images' => [
-                'assets/images/katalog/lunch box/1.png',
-                'assets/images/katalog/lunch box/2.png',
-                'assets/images/katalog/lunch box/3.png',
-                'assets/images/katalog/lunch box/4.png',
+                'images/katalog/lunch box/1.png',
+                'images/katalog/lunch box/2.png',
+                'images/katalog/lunch box/3.png',
+                'images/katalog/lunch box/4.png',
             ],
             'specs' => [
                 [
@@ -133,7 +133,7 @@ Route::get('/product/{slug}', function ($slug) {
         'tumblr' => [
             'name' => 'Tumblr',
             'images' => [
-                'assets/images/katalog/tumblr/1.png',
+                'images/katalog/tumblr/1.png',
             ],
             'specs' => [
                 [
@@ -158,9 +158,9 @@ Route::get('/product/{slug}', function ($slug) {
         'banner' => [
             'name' => 'Banner',
             'images' => [
-                'assets/images/katalog/banner/1.png',
-                'assets/images/katalog/banner/2.png',
-                'assets/images/katalog/banner/3.png',
+                'images/katalog/banner/1.png',
+                'images/katalog/banner/2.png',
+                'images/katalog/banner/3.png',
             ],
             'specs' => [
                 [
@@ -181,12 +181,12 @@ Route::get('/product/{slug}', function ($slug) {
         'sticker' => [
             'name' => 'Sticker',
             'images' => [
-                'assets/images/katalog/sticker/1.png',
-                'assets/images/katalog/sticker/2.png',
-                'assets/images/katalog/sticker/3.png',
-                'assets/images/katalog/sticker/4.png',
-                'assets/images/katalog/sticker/5.png',
-                'assets/images/katalog/sticker/6.png',
+                'images/katalog/sticker/1.png',
+                'images/katalog/sticker/2.png',
+                'images/katalog/sticker/3.png',
+                'images/katalog/sticker/4.png',
+                'images/katalog/sticker/5.png',
+                'images/katalog/sticker/6.png',
             ],
             'specs' => [
                 [
@@ -211,7 +211,7 @@ Route::get('/product/{slug}', function ($slug) {
         'keychain' => [
             'name' => 'Keychain',
             'images' => [
-                'assets/images/katalog/ganci/1.png',
+                'images/katalog/ganci/1.png',
             ],
             'specs' => [
                 [
@@ -232,7 +232,7 @@ Route::get('/product/{slug}', function ($slug) {
         'snack-paper' => [
             'name' => 'Snack-Paper',
             'images' => [
-                'assets/images/katalog/snack paper/1.png',
+                'images/katalog/snack paper/1.png',
             ],
             'specs' => [
                 [
@@ -253,7 +253,7 @@ Route::get('/product/{slug}', function ($slug) {
         'spoon' => [
             'name' => 'Spoon',
             'images' => [
-                'assets/images/katalog/spoon/1.png',
+                'images/katalog/spoon/1.png',
             ],
             'specs' => [
                 [
@@ -274,8 +274,8 @@ Route::get('/product/{slug}', function ($slug) {
         'sleeve' => [
             'name' => 'Sleeve',
             'images' => [
-                'assets/images/katalog/sleeve/1.png',
-                'assets/images/katalog/sleeve/2.png',
+                'images/katalog/sleeve/1.png',
+                'images/katalog/sleeve/2.png',
             ],
             'specs' => [
                 [
