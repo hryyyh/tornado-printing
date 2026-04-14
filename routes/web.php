@@ -10,3 +10,7 @@ Route::get('/', function () {
 Route::get('/product', [ProductController::class, 'index'])->name('product');
 
 Route::get('/product/{id}', [ProductController::class, 'show']);
+
+Route::get('/contact', function () {
+    return view('pages.contact');
+})->name('contact');
